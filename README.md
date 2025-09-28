@@ -1,1 +1,0 @@
-# alx-project-ex02-setup-on-GitHub
